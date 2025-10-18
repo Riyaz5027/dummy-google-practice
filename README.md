@@ -1,5 +1,9 @@
 # Dummy Google Homepage
 
+<br><br><br>
+<img width="348" height="145" alt="google-img" src="https://github.com/user-attachments/assets/7fc9ee4a-1924-4913-b62c-ea437ddbb7a5" />
+
+<br><br><br>
 A simple **Google homepage clone** built using only **HTML** and **CSS**.  
 This project was created for practice purposes — to improve basic front-end skills and understand webpage layout, alignment, and responsiveness.
 
