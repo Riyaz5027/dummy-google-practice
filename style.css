@@ -4,6 +4,7 @@ img{
     margin-top:100px;
     margin-left:auto;
     margin-right:auto;
+    padding-bottom: 10px;
 }
 input{
     width:300px;
@@ -11,4 +12,5 @@ input{
     height:35px;
     margin-left:auto;
     margin-right:auto;
+    text-align: center;
 }
